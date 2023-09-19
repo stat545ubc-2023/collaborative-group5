@@ -2,7 +2,7 @@
 
 1. Division of Labour:
   * How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has been identified.
-  * Jamie: troubleshooting, review contract
+  * Jamie: troubleshooting, review contract, review Nicoles request
   * Nicole: teamwork contract, review readme, 
   * Luke: Readme file, review troubleshooting
   * Grace: review readme, submit projet
