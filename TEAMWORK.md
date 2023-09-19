@@ -4,9 +4,9 @@
   * How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has been identified.
 
 Below is the division of labour for our group whcih we decided during our first group meeting! 
-Every group member has a main task which they will make a pull request for followed by a review rask in which they can review other's pull requests. 
+Every group member has a main task which they will make a pull request for followed by a review task in which they can review other's pull requests. 
 
-Jamies main task will be troubleshooting and Markdown Formatting she will also review the teamwork contract. Nicoles main task will be creating the teamwork contract as well as reviewing the Readme document. Luke's main task will be editing the Readme file and reviewing the troubleshooting task. Grace's main task will be reviewing the Readme file and part of the teamwork contract as well as finally submiting the projet. We then all will complete the Github issue task individually.
+Jamie's main task will be troubleshooting and Markdown Formatting. She will also review the teamwork contract. Nicole's main task will be creating the teamwork contract as well as reviewing the Readme document. Luke's main task will be editing the Readme file and reviewing the troubleshooting task. Grace's main task will be reviewing the Readme file and part of the teamwork contract as well as finally submiting the projet. We then all will complete the Github issue task individually.
     
 3. Timing:
   * When will you each aim to submit your pull requests, keeping in mind that another teammate will need to review your work? Warning: Do not submit your part of the project last-minute. Your teammate’s review of your work may not be trivial: if there are errors, your team will need time to debug them.
