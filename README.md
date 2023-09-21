@@ -5,12 +5,14 @@ This project is the first Collaborative Project for the *STAT 545A* course in th
 - **Jamie Kwon**
 - **Nicole Howes**
 - **Lu Dong Lai (Luke)**
-- **Grace Kuo** 
+- **Grace Kuo**
+
+This project is the first collaborative projet in the STAT 545 in term 1, which is designed to provide basic skills for R and Github. This course is taught by Dr. Lucy Gao.
 
 ## Files in the project folder / GitHub repo
 The following files are in the project's GitHub repository:
 1. README file: README.md
-  * This README file contains the information about the collaborative project, including the names of our teammates, what each document contains, and how to run the code within the folder.
+  * This README file contains information about the collaborative project, including the names of our teammates, what each document contains, and how to run the code within the folder.
 3. Teamwork Contract: TEAMWORK.md
   * The teamwork contract contains information on how we will be dividing roles and communicating with teammates.
 4. Troubleshooting document: troubleshooting-1.md and troubleshooting-1.Rmd
