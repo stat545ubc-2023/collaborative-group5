@@ -16,4 +16,4 @@ The following files are in the project's GitHub repository:
 ## How to run the code that appears in the folder / GitHub repo
 Markdown (md) files can be directly opened on the GitHub web interface or downloaded and opened in other text editors that support the .md format. 
 
-In the troubleshooting-1.md file, the results of running R code are also displayed within the file. Of course, you can also copy the code and manually input it into the R console to verify the results. This is done by opening our Github repo on R studio. To do this, copy the link on Github, open a new project, and paste the link. You can then knit the document to see the results.
+In the troubleshooting-1.md file, the results of running R code are also displayed within the file. Of course, you can also copy the code and manually input it into the R console to verify the results. You can also open a new project on R studio by coping the link to our project on Github, opening a new project on R studio, and pasting the link. You can then knit the document to see the results.
