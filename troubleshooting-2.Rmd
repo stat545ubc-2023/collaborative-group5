@@ -196,6 +196,7 @@ fakeStarWars <- tibble(
   "R5-D4"         ,  4.50      ,   2005        ,  New York, NY,
 )
 #changed tribble to tibble
+#this errors still needs to be worked on
 ```
 
 ## Attributions
