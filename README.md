@@ -13,11 +13,11 @@ This project is the first collaborative projet in the STAT 545 in term 1, which 
 The following files are in the project's GitHub repository:
 1. README file: README.md
   * This README file contains information about the collaborative project, including the names of our teammates, what each document contains, and how to run the code within the folder.
-3. Teamwork Contract: TEAMWORK.md
+2. Teamwork Contract: TEAMWORK.md
   * The teamwork contract contains information on how we will be dividing roles and communicating with teammates.
-4. Troubleshooting document: troubleshooting-1.md and troubleshooting-1.Rmd
+3. Troubleshooting document: troubleshooting-1.md and troubleshooting-1.Rmd
   * The troubleshooting document addressed 3 issues with the code that was provided by Lucy and the teaching team. The issues have been corrected and explained under each comment, then uploaded as MD and Rmd files through R studio
- 5. Troubleshooting document #2: troubleshooting-2.md and troubleshooting-2.Rmd
+4. Troubleshooting document #2: troubleshooting-2.md and troubleshooting-2.Rmd
   * The second troubleshooting document was for Milestone #2 and addressed 11 errors in code provided by Lucy and the tecahing team. The issues were corrected and explained under each comment, then uploaded as MD and Rmd files through R studio.
 
 ## How to run the code that appears in the folder / GitHub repo
