@@ -1,4 +1,4 @@
-# STAT 545A Milestone 1
+# STAT 545A Milestone 1+2
 ## Project Introduction
 
 This project is the first Collaborative Project for the *STAT 545A* course in the Fall term of 2023. The group number is **5**, and the group members include: 
