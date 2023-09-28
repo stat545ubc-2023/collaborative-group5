@@ -195,7 +195,7 @@ fakeStarWars <- tribble(
   "Beru Whitesun Iars", 4.05      ,   2004        ,  'Liverpool, England',
   "R5-D4"         ,     4.50      ,   2005        ,  'New York, NY'
   )
-#added comma after birth_location, added quotations
+#added comma after birth_location, added quotations for locations
 ```
 
 ## Attributions
