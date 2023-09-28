@@ -39,7 +39,6 @@ class(dslabs::movielens)
 movieLens <- as_tibble(dslabs::movielens)
 #fixed to "glimpse"
 glimpse(movieLens)
-
 ```
 
 Now that we've had a quick look at the dataset, it would be interesting to explore the rows (observations) in some more detail. I'd like to consider the movie entries that...
@@ -196,6 +195,7 @@ fakeStarWars <- tribble(
   "Beru Whitesun Iars", 4.05      ,   2004        ,  'Liverpool, England',
   "R5-D4"         ,     4.50      ,   2005        ,  'New York, NY'
   )
+#added comma after birth_location, added quotations
 ```
 
 ## Attributions
